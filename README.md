@@ -10,4 +10,11 @@ This data analysis project was done on a sales data where a number of clothing i
 Data was provided by the Incubator hub to be used for the project. The Primary data used here is sales data.xlsx
 
 ### Tools Used
+- Microsoft Excel : This was used for:
+  1.  data cleaning
+  2.  analysis 
+  3.  creation of pivot tables
+- Structured Query Language - This was used to query the data to provide data answers and trends.
+- Power BI - This was used to create various data visualizations.
+- GitHub- This was used to document the project.
 
