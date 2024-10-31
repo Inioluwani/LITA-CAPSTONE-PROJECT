@@ -123,5 +123,9 @@ Pivot table
 Powerbi Dashboard
 ![Screenshot (19)](https://github.com/user-attachments/assets/7036ba5d-b838-418c-805f-207bc82e9bbc)
 
+### Discussion of Report
+
+### Conclusion of Analysis
+
 
 
