@@ -34,6 +34,8 @@ EDA involved answering some questions about the sales data such as;
  ### Data Analysis
  This is where I include excel formulas, basic lines of queries from SQL and some 
  DAX expressions from PowerBi used during my analysis;
+ 
+ SQL
 
 ``` SQL
 Create database LITA_Project_1
@@ -86,10 +88,14 @@ select [Product] as products, count([OrderDate]) as orders from [dbo].[LITA Caps
 where [OrderDate] between '2024-06-01' and '2024-10-01' 
 group by [Product]
 ```
-
+Excel
 ```Excel
 Revenue: =F2*G2
 Average sales by product: =AVERAGEIF($C$2:$C$9922,C7,$F$2:$F$9922)
 Total Revenue by region: =SUMIF($D$2:$D$9922,D8,$H$2:$H$50001)
+```
+PowerBI
+```PowerBi
+Revenue = 'LITA Capstone Sales Data Dataset'[Quantity] * 'LITA Capstone Sales Data Dataset'[UnitPrice]
 ```
  
