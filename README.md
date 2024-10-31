@@ -1,6 +1,23 @@
 # LITA-CAPSTONE-PROJECT
 This where I document my capstone project for my LITA Data Analysis class with the incubator hub. Here, I analysed the sales data provided.
 
+[Project Title](#project-title)
+
+[Project Overview](#project-overview)
+
+[Data Sources](#data-sources)
+
+[Tools Used](#tools-used)
+
+[Data Cleaning and Preparation](#data-cleaning-and-preparation)
+
+[Exploratoratory Data Analysis](#exploratoratory-data-analysis)
+
+[Data Analysis](#data-analysis)
+
+[Data Visualization](#data-visualization)
+
+
 ### Project Title: Sales Data Analysis
 
 ### Project Overview
