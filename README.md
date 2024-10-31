@@ -100,5 +100,11 @@ Revenue = 'LITA Capstone Sales Data Dataset'[Quantity] * 'LITA Capstone Sales Da
 ```
 
 ### Data Visualization
+Pivot table
+![Screenshot (20)](https://github.com/user-attachments/assets/917edfe6-8381-4ab6-b43d-3088e79e3018)
+
+Powerbi Dashboard
+![Screenshot (19)](https://github.com/user-attachments/assets/7036ba5d-b838-418c-805f-207bc82e9bbc)
+
 
 
