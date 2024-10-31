@@ -41,7 +41,7 @@ Select * from [dbo].[LITA Capstone Sales Data Dataset]
 
 -----total sales per product
 
-select count([Customer_Id]) as total_sales,[Product] from [dbo].[LITA Capstone Sales Data Dataset]
+select sum(Quantity) as total_sales,[Product] from [dbo].[LITA Capstone Sales Data Dataset]
 group by [Product]
 
 ------total revenue per product
@@ -56,11 +56,11 @@ group by [Region]
 
 -----highest selling product
 
-select top 1 count([Customer_Id]) as total_sales,[Product] from [dbo].[LITA Capstone Sales Data Dataset]
+select top 1 sum(Quantity) as total_sales,[Product] from [dbo].[LITA Capstone Sales Data Dataset]
 group by [Product]
 order by 1 desc
 
-------top 5 customers by total purchase anount 
+------top 5 customers by total purchase amount 
 
 select top 5 sum([Quantity]*[UnitPrice] ) as purchase_amount, [Customer_Id] from [dbo].[LITA Capstone Sales Data Dataset]
 group by [Customer_Id]
@@ -68,7 +68,7 @@ order by 1 desc
 
 ------monthly sales total
 
-select COUNT([Customer_Id]) as monthly_sales,[OrderDate] from [dbo].[LITA Capstone Sales Data Dataset]
+select sum(Quantity) as monthly_sales,[OrderDate] from [dbo].[LITA Capstone Sales Data Dataset]
 group by [OrderDate]
 having [OrderDate] >= '2024-01-01'
 order by 2 asc
@@ -87,5 +87,9 @@ where [OrderDate] between '2024-06-01' and '2024-10-01'
 group by [Product]
 ```
 
-
+```Excel
+Revenue: =F2*G2
+Average sales by product: =AVERAGEIF($C$2:$C$9922,C7,$F$2:$F$9922)
+Total Revenue by region: =SUMIF($D$2:$D$9922,D8,$H$2:$H$50001)
+```
  
