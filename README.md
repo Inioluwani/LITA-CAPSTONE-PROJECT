@@ -98,4 +98,6 @@ PowerBI
 ```PowerBi
 Revenue = 'LITA Capstone Sales Data Dataset'[Quantity] * 'LITA Capstone Sales Data Dataset'[UnitPrice]
 ```
- 
+
+### Data Visualization
+
