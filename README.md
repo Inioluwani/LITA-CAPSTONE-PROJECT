@@ -17,6 +17,10 @@ This where I document my capstone project for my LITA Data Analysis class with t
 
 [Data Visualization](#data-visualization)
 
+[Observation from Visualizations](#observation-from-visualizations)
+
+[Recommendation from Analysis](#recommendation-from-analysis)
+
 
 ### Project Title: Sales Data Analysis
 
