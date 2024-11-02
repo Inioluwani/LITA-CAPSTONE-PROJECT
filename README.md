@@ -136,12 +136,12 @@ The clothing item that brought in the most revenue is Shoe with a total revenue 
 In the South, gloves are mostly sold with 9900 pieces sold closely followed by shoes with 9000 sold and jackets are not sold at all. In the East, hats are mostly sold with 6900 sold. In the North, Shirts are mostly sold with 6400 sold. In the west, socks are mostly sold with 3500 pieces sold. 
 
 ### Recommendation from Analysis
-Hats should be kept more in the stores as they are mostly sold and jackets should be the least stocked. Awareness should be done the public as regards other products that are available. Posters with "Jackets are also available' should be made to drive customers' request.
+Hats should be kept more in the stores as they are mostly sold and jackets should be the least stocked. Awareness should be done to the public as regards other products that are available. Posters with "Jackets are also available' should be made to drive customers' request.
 
 More advertisement should be targetted to the West region to increase sales in the West.
 Gloves and shoes should be in high quantity in the south. Hats should also be in high quantity in the East and shirts readily available in the North.
 
-The top 500 customers should be given coupons or discounts to encourage more purchase from them
+The top 500 customers should be given coupons or discounts to encourage more purchase from them.
 
 
 
