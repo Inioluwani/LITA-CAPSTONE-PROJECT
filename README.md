@@ -1,4 +1,4 @@
-# LITA-CAPSTONE-PROJECT
+# LITA-CAPSTONE-PROJECT-SALES-DATA
 This where I document my capstone project for my LITA Data Analysis class with the incubator hub. Here, I analysed the sales data provided.
 
 [Project Title](#project-title)
